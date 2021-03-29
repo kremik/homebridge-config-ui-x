@@ -206,7 +206,7 @@
     "plugins.manage.message_uninstall_remove_plugin_config": "Odebrat konfiguraci pluginu?",
     "plugins.node_update.are_you_sure_you_want_to_update": "Opravdu chcete aktualizovat plugin {{ pluginName }}?",
     "plugins.node_update.homebridge_node_version_too_low": "Homebridge v{{latestVersion}} vyžaduje pro běh Node.js ve verzi {{minVersion}} nebo vyšší. Vaše aktuálně běžící verze Node.js {{ installedVersion }}.",
-    "plugins.node_update.node_version_too_low": "Plugin {{ pluginName }} vyžaduje pro běh Node.js ve verzi {{ minVersion }} nebo vyšší. Vaše aktuálně běžící verze Node.js {{ installedVersion }}.",
+    "plugins.node_update.node_version_too_low": "Pro běh pluginu {{ pluginName }} je doporučen Node.js ve verzi {{ minVersion }} nebo vyšší. Vaše aktuálně běžící verze Node.js {{ installedVersion }}.",
     "plugins.node_update.title": "Node.js verze",
     "plugins.node_update.update_anyway": "Přesto aktualizovat",
     "plugins.node_update_homebridge_upgrade_and_try_again": "Před aktualizací Homebridge aktualizujte Node.js.",
